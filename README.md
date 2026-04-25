@@ -22,12 +22,26 @@ Rome-Airbnb-Analysis/
 │   └── airbnb_data.csv
 ├── sql/
 │   └── rome_airbnb_queries.sql
-├── powerbi/          ← coming soon
+├── powerbi/screenshots/
 └── python/           ← coming soon
 ```
 
 ## SQL Analysis
 Eight modules covering exploration, pricing, room types, host behaviour, availability, reviews, and outlier detection. Includes a parameterised stored procedure that returns a full KPI summary for any neighbourhood.
+
+## Power BI Dashboard
+
+### Page 1 — Overview
+![Overview](powerbi/screenshots/Overview.png)
+
+### Page 2 — Neighbourhood Analysis
+![Neighbourhood Analysis](powerbi/screenshots/Neighbourhood%20Analysis.png)
+
+### Page 3 — Availability & Hosts
+![Availability & Hosts](powerbi/screenshots/Availability%20&%20Hosts.png)
+
+### Page 4 — Pricing Insights
+![Pricing Insights](powerbi/screenshots/Pricing%20Insights.png)
 
 ## Author
 Mahak Agarwal
