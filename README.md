@@ -7,7 +7,7 @@ An end-to-end data analysis project exploring what drives Airbnb listing prices 
 
 ## Tools Used
 - **MySQL** — data exploration and analysis
-- **Power BI** — interactive dashboard (in progress)
+- **Power BI** — interactive dashboard
 - **Python** — statistical analysis and visualisation (in progress)
 
 ## Dataset
