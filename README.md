@@ -3,7 +3,7 @@
 ## Overview
 An end-to-end data analysis project exploring what drives Airbnb listing prices in Rome, Italy. The analysis covers 27,909 listings sourced from Inside Airbnb (September 2025) and is built across three tools: SQL and Power BI.
 
-**Central question:** What factors determine the nightly price of an Airbnb listing in Rome, and which locations and room types offer the best value?
+**Central question:** What drives pricing in Rome's Airbnb market, and how do room type, neighbourhood, availability, and host behaviour shape the market?
 
 ## Tools Used
 - **MySQL** — data exploration and analysis
