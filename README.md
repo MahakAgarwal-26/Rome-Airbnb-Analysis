@@ -38,6 +38,8 @@ An end-to-end data analysis project exploring Rome's Airbnb market using **27,90
 | **Total Listings** | 27,909 |
 | **Key Columns** | price, room_type, neighbourhood, availability_365, number_of_reviews, reviews_per_month, calculated_host_listings_count, minimum_nights |
 
+
+
 ---
 
 ## 📁 Repository Structure
