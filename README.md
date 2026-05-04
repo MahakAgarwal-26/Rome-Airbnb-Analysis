@@ -148,4 +148,4 @@ Deep dive into price distribution, outliers, and the relationship between price 
 ## 👩‍💻 Author
 
 **Mahak Agarwal**
-[GitHub](https://github.com/MahakAgarwal-26) · [LinkedIn](https://www.linkedin.com/in/mahak-agarwal-26)
+[GitHub](https://github.com/MahakAgarwal-26) · [LinkedIn](https://www.linkedin.com/in/mahak-agarwal-446858251/)
