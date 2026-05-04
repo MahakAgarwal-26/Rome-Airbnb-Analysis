@@ -4,7 +4,7 @@ An end-to-end data analysis project exploring Rome's Airbnb market using **27,90
 
 **Central Question:** What drives pricing in Rome's Airbnb market, and how do room type, neighbourhood, availability, and host behaviour shape the market?
 
-🔗 **[View Live Dashboard →](https://app.powerbi.com/groups/me/reports/deb5041e-476b-45ae-8c20-bc906ae96edd)**
+📂 **[Download Power BI File (.pbix)](powerbi/airbnb.pbix)** — Open in Power BI Desktop to explore the full interactive dashboard.
 
 ---
 
