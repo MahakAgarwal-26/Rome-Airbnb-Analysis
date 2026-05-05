@@ -42,25 +42,7 @@ An end-to-end data analysis project exploring Rome's Airbnb market using **27,90
 
 ---
 
-## 📁 Repository Structure
 
-```
-Rome-Airbnb-Analysis/
-├── data/
-│   └── airbnb_data.csv
-├── sql/
-│   └── rome_airbnb_queries.sql
-├── powerbi/
-│   └── screenshots/
-│       ├── page1_overview.png
-│       ├── page2_neighbourhood_price.png
-│       ├── page2_neighbourhood_demand.png
-│       ├── page3_availability_hosts.png
-│       └── page4_pricing_analysis.png
-└── README.md
-```
-
----
 
 ## 🗄️ SQL Analysis
 
