@@ -73,7 +73,6 @@ The dashboard consists of **4 interactive pages** built with 10 DAX measures, 3 
 
 ---
 
-### Page 1 — Market Overview
 ![Market Overview](powerbi/screenshots/page1_overview.png)
 
 A high-level snapshot of Rome's Airbnb market with 5 KPI cards and room type breakdown.
@@ -84,7 +83,6 @@ A high-level snapshot of Rome's Airbnb market with 5 KPI cards and room type bre
 
 ---
 
-### Page 2 — Neighbourhood Intelligence
 ![Neighbourhood Price View](powerbi/screenshots/page2_neighbourhood_price.png)
 ![Neighbourhood Demand View](powerbi/screenshots/page2_neighbourhood_demand.png)
 
@@ -104,7 +102,6 @@ A dual-view page with a **bookmark toggle** switching between Price and Demand p
 
 ---
 
-### Page 3 — Availability & Hosts
 ![Availability & Hosts](powerbi/screenshots/page3_availability_hosts.png)
 
 Explores listing availability patterns and the split between commercial and individual hosts.
@@ -115,7 +112,6 @@ Explores listing availability patterns and the split between commercial and indi
 
 ---
 
-### Page 4 — Pricing Analysis
 ![Pricing Analysis](powerbi/screenshots/page4_pricing_analysis.png)
 
 Deep dive into price distribution, outliers, and the relationship between price and demand.
